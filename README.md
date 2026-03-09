@@ -26,7 +26,6 @@ Hi! My Name is Atanu Pal.<br>I am currently pursuing my Bachelor Degree in Compu
 <br>
 
 ---
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Learn_To_Search&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
