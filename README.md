@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi! My Name is Atanu Pal.<br>I am currently pursuing my Bachelor Degree in Computer Science.<br>I am currently learning AIML.<br>I like to travel a lot of places specially mountains.<br>My goal is to built myself.
+<h1 align="center">Hi there, I'm Atanu Pal! 👋</h1>
+<h3 align="center">A passionate CS Student & Aspiring AI/ML Engineer from India</h3>
 
 
 # 💻 Tech Stack:
