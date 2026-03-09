@@ -13,14 +13,7 @@ Hi! My Name is Atanu Pal.<br>I am currently pursuing my Bachelor Degree in Compu
 <br>
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LearnToSearch&theme=react-dark&bg_color=20232a&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LearnToSearch&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=LearnToSearch&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Trophies" width="50%" />
 </div>
 
 <br>
